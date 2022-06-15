@@ -2,7 +2,7 @@
 // BASE ILMANHDYT
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
-// RECODE BY RIEL OFC
+// RECODE BY GEN OFC
 
 //=============『 Utama 』================== //
 global.owner = ['62882005531015'] 
@@ -30,7 +30,7 @@ global.fotonya1 = 'https://telegra.ph/file/bdff3c2d63d80fd3e356a.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/bdff3c2d63d80fd3e356a.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻𝚁𝙸𝙴𝙻 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳'
+global.wm = '↻ GEN BOT WHATSAPP-MD'
 global.watermark = wm
 global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ᴹᴿGEN ×፝֟͜×'
 global.wm3 = 'ᯤ GEN𝙶𝙰𝙽𝚂 𝙾𝙵𝙲'
