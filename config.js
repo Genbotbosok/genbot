@@ -7,7 +7,7 @@
 //=============『 Utama 』================== //
 global.owner = ['62882005531015'] 
 global.mods = ['62882005531015'] 
-global.prems = ['6288200531015'] 
+global.prems = ['62882005531015'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'GenGanz'
