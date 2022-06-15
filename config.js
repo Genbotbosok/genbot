@@ -12,7 +12,7 @@ global.prems = ['62882005531015']
 //=============『 Info Owner 』============== //
 global.nameowner = 'GenGanz'
 global.numberowner = '62882005531015'
-global.instagram = 'https://instagram.com/itsme_nitsu'
+global.instagram = 'https://instagram.com/hi.eugen'
 global.github = 'https://github.com/JakaV4'
 global.dana = '089654461910'
 global.pulsa = '083197373088'
