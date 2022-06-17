@@ -23,7 +23,7 @@ global.namebot = 'Gen Botz'
 global.gc = '-'
 global.web = 'https://instagram.com/hi.eugen' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/hi.eugen'
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 3.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 5.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 6.000\nMAKSIMAL 3 GRUP + PREMIUM\n》PERMANEN Rp 7.000\nMAKSIMAL 5 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
+global.price1 = 'NIH MEK LIST SEWA NYA\n\n》1 MINGGU Rp 3.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 5.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 6.000\nMAKSIMAL 3 GRUP + PREMIUM\n》PERMANEN Rp 7.000\nMAKSIMAL 5 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/bdff3c2d63d80fd3e356a.jpg' //ganti jadi foto bot mu
@@ -36,7 +36,7 @@ global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ᴹᴿGEN ×፝֟͜×'
 global.wm3 = 'ᯤ GEN𝙶𝙰𝙽𝚂 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/4d1132cf44af1cbf68897.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu Sedang Proses...'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
