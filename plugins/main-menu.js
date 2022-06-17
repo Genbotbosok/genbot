@@ -43,19 +43,11 @@ const defaultMenu = {
   header: '╭─㉿ 〔 %category 〕 ㉿─\n┃',
   body: '┃⫹⫺ %cmd %islimit %isPremium',
   footer: '┃\n╰────────㉿\n', 
-  footerText: 'Powered by ᯤ ʀɪᴇʟɢᴀɴs ᴏғᴄ',
+  footerText: 'Powered by ᯤ GENɢᴀɴs ᴏғᴄ',
   after: `
 ╭──〔  THANKS TO  〕─⬣
-⫹⫺ Allah SWT
-⫹⫺ Orang Tua
-⫹⫺ Kesabaran
-⫹⫺ Penyemangat
-⫹⫺ Nurutomo
-⫹⫺ Ilmanhdyt
-⫹⫺ Elyas
-⫹⫺ Hyzer
-⫹⫺ KrizynOfc
-⫹⫺ RielgansOfc
+⫹⫺ Tuhan
+⫹⫺ Gen
 ╰─────────────⬣
 `,
 }
@@ -321,7 +313,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
         listMessage: {
             title: `*${ucapan()} ${name}*`,
             description: menuu,
-            buttonText: '🐤𝐊𝐋𝐈𝐊 𝐃𝐈𝐒𝐈𝐍𝐈 𝐂𝐎𝐊🐤',
+            buttonText: 'KLIK DISINI',
             listType: 1,
             footerText: "📮 𝚂ilahkan Pilih Menu Dibawah Ini🤖",
             mtype: 'listMessage',
@@ -534,28 +526,28 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
              {
              urlButton: {
-               displayText: '𝐆𝐑𝐎𝐔𝐏 𝐁𝐎𝐓 𝐑𝐈𝐄𝐋🎮', 
+               displayText: 'GROUP BOT GEN GEN', 
                url: gc
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '𝐎𝐖𝐍𝐄𝐑 𝐑𝐈𝐄𝐋𝐁𝐎𝐓𝐙🐤',
+               displayText: 'OWNER GENBOTZ',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '𝐃𝐎𝐍𝐀𝐒𝐈 𝐂𝐎𝐊🗿',
+               displayText: 'DONASI MEK',
                id: '.donasi',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: ' 𝐂𝐑𝐄𝐃𝐈𝐓𝐒🎖️',
+               displayText: ' CREDIT',
                id: '.tqto',
              }
            }]
